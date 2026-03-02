@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+*.log
+*.DS_Store
+venv/
+.venv/
+.env.local
+.idea/
+.vscode/
+
+# Add these for MongoDB
+*.bson
+dump/
+mongodb_data/
+.env.production
+.env.development
