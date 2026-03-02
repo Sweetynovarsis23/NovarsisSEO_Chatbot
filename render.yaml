@@ -14,4 +14,4 @@ services:
       - key: OLLAMA_BASE_URL
         value: https://ollama.com
       - key: OLLAMA_MODEL
-        value: codellama:13b
+        value: qwen3-coder:480b
